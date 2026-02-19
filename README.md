@@ -39,4 +39,20 @@ The AI Adoption Impact Analytics Dashboard is a Power BI project designed to ana
 * Added interactive slicers (Year, Country, Industry, Risk Level, Technology Type)
 ## Dashboard
 <img width="1131" height="621" alt="Screenshot 2026-02-19 205744" src="https://github.com/user-attachments/assets/b4d2060d-f609-40cd-ae22-14064294882c" />
+## Project Insights
+* AI adoption is steadily increasing across industries.
+* Retail and Manufacturing show relatively higher adoption rates.
+* Investment levels vary significantly between industries.
+* ROI does not always increase proportionally with higher investment.
+* Productivity shows improvement in years with higher AI integration.
+* Net job impact indicates both job creation and displacement, depending on industry.
+* Technology distribution suggests balanced usage between GenAI, RPA, ML Models, and Cloud AI.
+## Tools & Technologies Used
+* Power BI Desktop
+* DAX (Data Analysis Expressions)
+* Power Query
+* Excel dataset
+## Final Conclusion
+* The AI Adoption Impact Dashboard provides a 360-degree view of AI transformation across industries.
+* This project demonstrates practical business intelligence skills including KPI design, data modeling, visualization best practices, and storytelling with data.
 

@@ -23,17 +23,20 @@ The AI Adoption Impact Analytics Dashboard is a Power BI project designed to ana
 * Removed inconsistencies in category labels
 * Transformed data using Power Query
 ## Data Modeling
-*Created calculated measures using DAX
-*Built KPIs:
-  *Total AI Investment
-  *Average AI Adoption %
-  *Average ROI
-  *Net Job Impact
-  *Ensured proper data relationships
+* Created calculated measures using DAX
+* Built KPIs:
+  * Total AI Investment
+  * Average AI Adoption %
+  * Average ROI
+  * Net Job Impact
+  * Ensured proper data relationships
 ## Dashboard Design
-*Structured layout:
-*Top row → KPI cards
-  *Middle row → Industry & Technology analysis
-  *Bottom row → Time-based trends
-*Applied professional dark corporate theme
-*Added interactive slicers (Year, Country, Industry, Risk Level, Technology Type)
+* Structured layout:
+* Top row → KPI cards
+  * Middle row → Industry & Technology analysis
+  * Bottom row → Time-based trends
+* Applied professional dark corporate theme
+* Added interactive slicers (Year, Country, Industry, Risk Level, Technology Type)
+## Dashboard
+<img width="1131" height="621" alt="Screenshot 2026-02-19 205744" src="https://github.com/user-attachments/assets/b4d2060d-f609-40cd-ae22-14064294882c" />
+
